@@ -1,0 +1,23 @@
+{
+  "name": "MAMBO Fake USDC Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "tags": {},
+  "timestamp": "2025-08-14T09:17:30.753Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "DUMMyUsDC111111111111111111111111111111111",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "website": "https://www.centre.io/usdc"
+      }
+    }
+  ]
+}
