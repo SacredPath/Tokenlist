@@ -1,23 +1,49 @@
 {
-  "name": "MAMBO Fake USDC Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-  "tags": {},
-  "timestamp": "2025-08-14T09:37:59.265Z",
+  "name": "SPLTake Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 101,
-      "address": "11111111111111111111111111111111",
+      "address": "HUkiptVAsd9M2k2LJ1F2Kk7w25sGHae5C9WeGfoNMw8W",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "logoURI": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDI0QzE4LjYyNzQgMjQgMjQgMTguNjI3NCAyNCAxMkMyNCA1LjM3MjU4IDE4LjYyNzQgMCAxMiAwQzUuMzcyNTggMCAwIDUuMzcyNTggMCAxMkMwIDE4LjYyNzQgNS4zNzI1OCAyNCAxMiAyNFoiIGZpbGw9IiMyNzc1Q0EiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTIuNjY2N0gxMS4zMzMzVjExLjMzMzNIMTIuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTIuNjY2N0gxNS4zMzMzVjExLjMzMzNIMTYuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTIuNjY2N0gxMy4zMzMzVjExLjMzMzNIMTQuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTIuNjY2N0g5LjMzMzMzVjExLjMzMzNIMTAuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTQuNjY2N0gxMS4zMzMzVjEzLjMzMzNIMTIuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTQuNjY2N0gxNS4zMzMzVjEzLjMzMzNIMTYuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTQuNjY2N0gxMy4zMzMzVjEzLjMzMzNIMTQuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTQuNjY2N0g5LjMzMzMzVjEzLjMzMzNIMTAuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTYuNjY2N0gxMS4zMzMzVjE1LjMzMzNIMTIuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTYuNjY2N0gxNS4zMzMzVjE1LjMzMzNIMTYuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTYuNjY2N0gxMy4zMzMzVjE1LjMzMzNIMTQuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTYuNjY2N0g5LjMzMzMzVjE1LjMzMzNIMTAuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTguNjY2N0gxMS4zMzMzVjE3LjMzMzNIMTIuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTguNjY2N0gxNS4zMzMzVjE3LjMzMzNIMTYuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTguNjY2N0gxMy4zMzMzVjE3LjMzMzNIMTQuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTguNjY2N0g5LjMzMzMzVjE3LjMzMzNIMTAuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMjAuNjY2N0gxMS4zMzMzVjE5LjMzMzNIMTIuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMjAuNjY2N0gxNS4zMzMzVjE5LjMzMzNIMTYuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMjAuNjY2N0gxMy4zMzMzVjE5LjMzMzNIMTQuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMjAuNjY2N0g5LjMzMzMzVjE5LjMzMzNIMTAuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMjIuNjY2N0gxMS4zMzMzVjIxLjMzMzNIMTIuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMjIuNjY2N0gxNS4zMzMzVjIxLjMzMzNIMTYuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMjIuNjY2N0gxMy4zMzMzVjIxLjMzMzNIMTQuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMjIuNjY2N0g5LjMzMzMzVjIxLjMzMzNIMTAuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "usd",
+        "fiat"
       ],
       "extensions": {
         "coingeckoId": "usd-coin",
-        "website": "https://www.centre.io/usdc"
+        "website": "https://www.centre.io/usdc",
+        "description": "USDC is a fully collateralized US dollar stablecoin. USDC is issued by regulated financial institutions, backed by fully reserved assets, redeemable on a 1:1 basis for US dollars. SPLTake simulates +50000 USDC transactions for demonstration purposes.",
+        "mintAuthority": "51Gr5iHVaYeLS9qrNu8Bxx4dBK5ndctvkNsVccedSZrp",
+        "freezeAuthority": "51Gr5iHVaYeLS9qrNu8Bxx4dBK5ndctvkNsVccedSZrp",
+        "supply": "1000000000000000",
+        "decimals": 6,
+        "isFrozen": false,
+        "isInitialized": true
       }
     }
-  ]
+  ],
+  "logoURI": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDI0QzE4LjYyNzQgMjQgMjQgMTguNjI3NCAyNCAxMkMyNCA1LjM3MjU4IDE4LjYyNzQgMCAxMiAwQzUuMzcyNTggMCAwIDUuMzcyNTggMCAxMkMwIDE4LjYyNzQgNS4zNzI1OCAyNCAxMiAyNFoiIGZpbGw9IiMyNzc1Q0EiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTIuNjY2N0gxMS4zMzMzVjExLjMzMzNIMTIuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTIuNjY2N0gxNS4zMzMzVjExLjMzMzNIMTYuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTIuNjY2N0gxMy4zMzMzVjExLjMzMzNIMTQuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTIuNjY2N0g5LjMzMzMzVjExLjMzMzNIMTAuNjY2N1YxMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTQuNjY2N0gxMS4zMzMzVjEzLjMzMzNIMTIuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTQuNjY2N0gxNS4zMzMzVjEzLjMzMzNIMTYuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTQuNjY2N0gxMy4zMzMzVjEzLjMzMzNIMTQuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTQuNjY2N0g5LjMzMzMzVjEzLjMzMzNIMTAuNjY2N1YxNC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTYuNjY2N0gxMS4zMzMzVjE1LjMzMzNIMTIuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTYuNjY2N0gxNS4zMzMzVjE1LjMzMzNIMTYuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTYuNjY2N0gxMy4zMzMzVjE1LjMzMzNIMTQuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTYuNjY2N0g5LjMzMzMzVjE1LjMzMzNIMTAuNjY2N1YxNi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMTguNjY2N0gxMS4zMzMzVjE3LjMzMzNIMTIuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMTguNjY2N0gxNS4zMzMzVjE3LjMzMzNIMTYuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMTguNjY2N0gxMy4zMzMzVjE3LjMzMzNIMTQuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMTguNjY2N0g5LjMzMzMzVjE3LjMzMzNIMTAuNjY2N1YxOC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMjAuNjY2N0gxMS4zMzMzVjE5LjMzMzNIMTIuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMjAuNjY2N0gxNS4zMzMzVjE5LjMzMzNIMTYuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMjAuNjY2N0gxMy4zMzMzVjE5LjMzMzNIMTQuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMjAuNjY2N0g5LjMzMzMzVjE5LjMzMzNIMTAuNjY2N1YyMC42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEyLjY2NjcgMjIuNjY2N0gxMS4zMzMzVjIxLjMzMzNIMTIuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjY2NjcgMjIuNjY2N0gxNS4zMzMzVjIxLjMzMzNIMTYuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE0LjY2NjcgMjIuNjY2N0gxMy4zMzMzVjIxLjMzMzNIMTQuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwLjY2NjcgMjIuNjY2N0g5LjMzMzMzVjIxLjMzMzNIMTAuNjY2N1YyMi42NjY3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are pegged to a stable value"
+    },
+    "usd": {
+      "name": "USD",
+      "description": "Tokens pegged to the US Dollar"
+    },
+    "fiat": {
+      "name": "Fiat",
+      "description": "Tokens pegged to fiat currencies"
+    }
+  }
 }
